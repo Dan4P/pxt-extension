@@ -25,8 +25,8 @@
     ],
     "preferredEditor": "tsprj",
     "extension": {
-        "namespace": "modules",
+        "namespace": "hello",
         "label": "input",
         "group": "Roles",
-        "localUrl": "http://localhost:8000/tools/makecode-editor-extension"
+        "url": "test text",
 }
