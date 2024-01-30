@@ -28,7 +28,6 @@
         "namespace": "hello",
         "url": "test text",
         "group": "Roles",
-        "label": "input",
-        "localeditorextensions": "1"
+        "label": "input"
     }
 }
