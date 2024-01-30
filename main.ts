@@ -1,6 +1,6 @@
 namespace hello {
     //%block
-    export function showHi() {
+    export function tryThisHello() {
         led.toggle(0, 0)
         led.toggle(0, 1)
         led.toggle(0, 2)
