@@ -23,10 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj",
-    "extension": {
-        "namespace": "hello",
-        "label": "input",
-        "group": "Roles",
-        "url": "test text",
+    "preferredEditor": "tsprj"
 }
