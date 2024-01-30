@@ -24,7 +24,7 @@
         "microbit"
     ],
     "preferredEditor": "tsprj",
-    "extsnsion": {
+    "extension": {
         "url": "test text",
         "label": "input"
     }
