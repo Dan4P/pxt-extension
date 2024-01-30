@@ -25,6 +25,7 @@
     ],
     "preferredEditor": "tsprj",
     "extension": {
+        "namespace": "hello",
         "url": "test text",
         "group": "Roles",
         "label": "input"
