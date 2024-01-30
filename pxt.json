@@ -26,6 +26,7 @@
     "preferredEditor": "tsprj",
     "extension": {
         "url": "test text",
+        "group": "Roles",
         "label": "input"
     }
 }
