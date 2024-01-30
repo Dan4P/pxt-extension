@@ -23,5 +23,9 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "extsnsion": {
+        "url": "test text",
+        "label": "input"
+    }
 }
