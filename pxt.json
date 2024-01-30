@@ -23,10 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj",
-    "extension": {
-        "namespace": "modules",
-        "label": "input",
-        "group": "Roles",
-        "localUrl": "http://localhost:8000/tools/makecode-editor-extension"
+    "preferredEditor": "tsprj"
 }
