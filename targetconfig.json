@@ -1,7 +1,7 @@
 {
   packages: {
-  approvedEditorExtensionUrls: [
-    "https://dan4p.github.io/"
-  ]
+    approvedEditorExtensionUrls: [
+      "https://dan4p.github.io/"
+    ]
   }
 }
