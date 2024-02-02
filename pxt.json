@@ -26,7 +26,7 @@
     "preferredEditor": "tsprj",
     "extension": {
         "namespace": "hello",
-        "url": " https://dan4p.github.io/",
+        "url": "https://dan4p.github.io/",
         "group": "Roles",
         "label": "input"
     }
