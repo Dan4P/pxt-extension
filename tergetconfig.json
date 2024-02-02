@@ -1,0 +1,7 @@
+{
+  packages: {
+  approvedEditorExtensionUrls: [
+    "https://dan4p.github.io/"
+  ]
+  }
+}
