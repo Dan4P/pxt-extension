@@ -17,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.25",
+        "target": "6.1.8",
         "targetId": "microbit"
     },
     "supportedTargets": [
@@ -27,7 +27,7 @@
     "extension": {
         "namespace": "hello",
         "url": "https://dan4p.github.io/",
-        "group": "Roles",
+        "group": "Input model",
         "label": "input"
     }
 }
