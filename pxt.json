@@ -26,8 +26,7 @@
     "preferredEditor": "tsprj",
     "extension": {
         "namespace": "hello",
-        "url": "https://dan4p.github.io/localeditorextensions=1",
-        "localurl": "https://dan4p.github.io/"
+        "localurl": "C:\Users\dprit\OneDrive\Documents\Uni\Year4\SCC419\code\EditorExtensionPage\baseWebsite"
         "group": "Input model",
         "label": "input"
     }
