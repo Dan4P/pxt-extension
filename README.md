@@ -1,5 +1,5 @@
 
-> Open this page at [https://dan4p.github.io/pxt-extension/](https://dan4p.github.io/pxt-extension/)
+> Open this page at [https://dan4p.github.io/pxt-extension/](https://dan4p.github.io/pxt-hello/)
 
 ## Use as Extension
 
