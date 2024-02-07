@@ -27,7 +27,7 @@
     "extension": {
         "namespace": "hello",
         "url": " https://dan4p.github.io/",
-        "localeditorextensions": "1" 
+        "localeditorextensions": "1",
         "localurl": "http://localhost:8000",
         "group": "Input model",
         "label": "input"
