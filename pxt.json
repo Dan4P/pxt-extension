@@ -26,6 +26,7 @@
     "preferredEditor": "tsprj",
     "extension": {
         "namespace": "hello",
+        "url": "filltext"
         "localurl": "localhost:8000"
         "group": "Input model",
         "label": "input"
