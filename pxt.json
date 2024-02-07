@@ -26,7 +26,7 @@
     "preferredEditor": "blocksprj",
     "extension": {
         "namespace": "hello",
-        "url": " https://dan4p.github.io/localeditorextensions=1",
+        "url": "localeditorextensions=1",
         "localurl": "http://localhost:8000",
         "group": "Input model",
         "label": "input"
