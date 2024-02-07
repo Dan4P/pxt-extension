@@ -1,5 +1,5 @@
 {
-    "name": "pxt-extension",
+    "name": "pxt-hello",
     "description": "",
     "dependencies": {
         "core": "*",
