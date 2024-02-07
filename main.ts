@@ -19,3 +19,4 @@ namespace hello {
 
     }
 }
+hello.showHi()
