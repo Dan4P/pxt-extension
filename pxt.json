@@ -17,7 +17,7 @@
         "targetId": "microbit"
     },
     "supportedTargets": [
-        "microbit",
+        "microbit"
     ],
     "preferredEditor": "tsprj",
 
