@@ -26,7 +26,7 @@
     "preferredEditor": "blocksprj",
     "extension": {
         "namespace": "hello",
-        "url": "https://microsoft.github.io/jacdac-docs/tools/makecode-editor-extension",
+        "url": "https://dan4p.github.io/",
         "localurl": "http://localhost:8000",
         "group": "Input model",
         "label": "input"
