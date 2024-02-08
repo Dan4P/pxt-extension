@@ -1,37 +1,33 @@
 {
-    "name": "hello",
-    "version": "1.9.25",
+    "name": "pxt-hello",
+    "description": "",
     "dependencies": {
         "core": "*",
-        "settings": "*"
+        "radio": "*",
+        "microphone": "*"
     },
-        "files": [
+    "files": [
         "main.blocks",
         "main.ts",
         "README.md",
         "main.py"
     ],
-
     "testFiles": [
         "test.ts"
     ],
-
-    "public": true,
     "targetVersions": {
-        "target": "4.0.11",
+        "target": "6.0.25",
         "targetId": "microbit"
     },
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj",
-
+    "preferredEditor": "blocksprj",
     "extension": {
-        "namespace": "modules",
-        "label": "Configure",
-        "group": "Roles",
-        "url": "https://microsoft.github.io/jacdac-docs/tools/makecode-editor-extension",
-        "localUrl": "http://localhost:8000/tools/makecode-editor-extension"
-    },
-
+        "namespace": "hello",
+        "url": "https://dan4p.github.io/",
+        "localurl": "http://localhost:8000",
+        "group": "Input model",
+        "label": "input"
+    }
 }
