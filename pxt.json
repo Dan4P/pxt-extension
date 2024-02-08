@@ -20,7 +20,6 @@
     ],
     "preferredEditor": "tsprj",
 
-    "binaryonly": true,
     "extension": {
         "namespace": "modules",
         "label": "Configure",
