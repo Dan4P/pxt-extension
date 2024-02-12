@@ -15,7 +15,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
     "targetVersions": {
         "target": "6.0.25",
         "targetId": "microbit"
@@ -26,7 +25,7 @@
     "preferredEditor": "blocksprj",
     "extension": {
         "namespace": "hello",
-        "url": "localeditorextensions=1",
+        "url": "https://dan4p.github.io/",
         "localurl": "http://localhost:8000",
         "group": "Input model",
         "label": "input"
