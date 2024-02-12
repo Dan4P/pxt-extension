@@ -1,5 +1,5 @@
 
-> Open this page at [https://dan4p.github.io/pxt-extension/](https://dan4p.github.io/pxt-hello/)
+> Open this page at [https://dan4p.github.io/pxt-hello/](https://dan4p.github.io/pxt-hello/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/dan4p/pxt-extension** and import
+* search for **https://github.com/dan4p/pxt-hello** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/dan4p/pxt-extension** and click import
+* paste **https://github.com/dan4p/pxt-hello** and click import
 
 #### Metadata (used for search, rendering)
 
