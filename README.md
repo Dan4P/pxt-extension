@@ -32,7 +32,7 @@ What you will need to do is:
 * create your webpage that the extension will link to 
 
 Creating the extension
-* open up the makecode editor, start a project and create a github repo for that project (make sure that the repo is public)
+* open up the makecode editor(https://makecode.microbit.org/), start a project and create a github repo for that project (make sure that the repo is public)
 * code in main.ts the extension you want to make (https://makecode.com/playground is helpful for learning this)
 * you need to add a section to the pxt.json file in your repo containing the url of your webpage (https://makecode.com/extensions/extensions this webpage shows you what to add). This makes the extension an editor extension.
 
