@@ -54,4 +54,5 @@ useful links
 * https://github.com/microsoft/pxt-microbit
 * https://makecode.com/extensions/getting-started/simple-extension
 * https://makecode.com/extensions/naming-conventions
+* https://makecode.microbit.org/
   
