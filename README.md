@@ -1,5 +1,5 @@
 
-> Open this page at [[https://dan4p.github.io/pxt-extension/](https://dan4p.github.io/pxt-hello/)](https://github.com/Dan4P/pxt-hello?tab=readme-ov-file)
+> Open this page at https://github.com/Dan4P/pxt-hello
 
 ## Use as Extension
 
