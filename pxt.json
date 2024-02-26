@@ -27,7 +27,7 @@
         "namespace": "hello",
         "label": "input",
         "group": "Input model",
-        "url": "https://dan4p.github.io/",
+        "url": "https://dan4p.github.io/hello-world/",
         "localurl": "http://localhost:8000"
     }
 }
